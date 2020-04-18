@@ -1,8 +1,21 @@
 title {
-    color: deeppink;
+    color: black;
     font-weight: bolder;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
 }
 body {
     background-color: firebrick;
-    color: fuchsia;
+    color: powderblue;
+    text-align: center;
+}
+.madi {
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    margin-top: 225px;
+    margin-left: 60px;
+    text-align: center;
+    align-items: center;
 }
