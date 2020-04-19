@@ -14,8 +14,17 @@ body {
     height: 200px;
     width: 300px;
     margin: auto;
-    margin-top: 225px;
-    margin-left: 60px;
+    margin-top: 150px;
+    margin-left: 45px;
     text-align: center;
+    align-items: center;
+    text-anchor: black;
+    border-radius: 400px;
+}
+.p {
+    margin-top: 170px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 40px;
     align-items: center;
 }
